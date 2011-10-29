@@ -2,7 +2,7 @@
 ** Copyright (C) 2010 Frédéric Logier
 ** Contact: Frédéric Logier <frederic@logier.org>
 **
-** http://gitorious.org/nodecast/nodecast-cli
+** https://github.com/nodecast/geekast-cli
 **
 ** This file is part of Nodecast.
 **
