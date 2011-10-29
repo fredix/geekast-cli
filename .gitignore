@@ -1,0 +1,5 @@
+Makefile
+geekast-cli.pro.user
+geekast-cli
+*.o
+moc*
